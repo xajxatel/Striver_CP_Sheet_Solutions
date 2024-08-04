@@ -1,6 +1,6 @@
 # Striver CP Sheet Solutions
 
-This repository contains solutions to the Striver CP Sheets from [Take U Forward](https://takeuforward.org/interview-experience/strivers-cp-sheet). These solutions cover various competitive programming problems and are aimed at helping learners improve their problem-solving skills.
+This repository contains solutions to the Striver CP (Competitive Coding) Sheets from [Take U Forward](https://takeuforward.org/interview-experience/strivers-cp-sheet). These solutions cover various competitive programming problems and are aimed at helping learners improve their problem-solving skills.
 
 ## About the CP Sheet
 The CP sheet provides a comprehensive collection of problems categorized by difficulty and topic, helping learners systematically tackle competitive programming challenges.
